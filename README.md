@@ -64,7 +64,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/kuntal-hub/mega-blog.git
+git clone https://github.com/Gaurav075/BLOG-APP.git
 cd mega-blog
 ```
 
