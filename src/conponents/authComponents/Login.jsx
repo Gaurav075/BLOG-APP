@@ -107,7 +107,7 @@ export default function Login() {
                     />
                     <Button type="submit" chlidren="Log in" className={`block rounded-lg w-[90%] mx-auto h-12 py-3 px-4 bg-blue-600 text-white font-semibold mt-7 mb-2 hover:bg-blue-500`} disabled={isDisabled} />
                 </form>
-                <p className='mx-auto w-[90%]'><Link to='/recovery' className={`hover:underline text-blue-700 ${mode === "dark" ? "" : ""}`}>Forgot Pasword?</Link></p>
+              
             </div>
             {isDisabled? <Loader /> : ""}
         </div>
