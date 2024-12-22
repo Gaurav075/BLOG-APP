@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="#" >
-      <img src="https://portfolio-v2-sigma-eight-85.vercel.app/Screenshot%20(106)-min.png" alt="Project Banner">
+      <img src="home.png" alt="Project Banner">
     </a>
   <br />
 
